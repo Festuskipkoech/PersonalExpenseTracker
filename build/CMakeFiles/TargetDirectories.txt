@@ -1,0 +1,3 @@
+/home/festus/personal_expense_tracker/build/CMakeFiles/ExpenseTracker.dir
+/home/festus/personal_expense_tracker/build/CMakeFiles/edit_cache.dir
+/home/festus/personal_expense_tracker/build/CMakeFiles/rebuild_cache.dir

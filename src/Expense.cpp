@@ -1,6 +1,7 @@
 #include "Expense.h"
 #include <sstream>
 #include <iomanip>
+#include <vector>
 
 // Default constructor
 Expense::Expense() : id(0), amount(0.0), description(""), date(""), categoryId(0), categoryName("") {}
